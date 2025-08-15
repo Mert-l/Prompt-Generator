@@ -1,0 +1,308 @@
+{
+    "hashtagId": "1668778869266437",
+    "hashtagName": "aigenerated",
+    "videoUrl": "https://www.tiktok.com/tag/aigenerated",
+    "countryInfo": {
+        "id": "US",
+        "value": "United States",
+        "label": "US"
+    },
+    "isPromoted": false,
+    "trend": [
+        {
+            "time": 1752624000,
+            "value": 0.91
+        },
+        {
+            "time": 1752710400,
+            "value": 0.98
+        },
+        {
+            "time": 1752796800,
+            "value": 0.93
+        },
+        {
+            "time": 1752883200,
+            "value": 0.98
+        },
+        {
+            "time": 1752969600,
+            "value": 1
+        },
+        {
+            "time": 1753056000,
+            "value": 0.86
+        },
+        {
+            "time": 1753142400,
+            "value": 0.76
+        },
+        {
+            "time": 1753228800,
+            "value": 0.91
+        },
+        {
+            "time": 1753315200,
+            "value": 0.95
+        },
+        {
+            "time": 1753401600,
+            "value": 0.96
+        },
+        {
+            "time": 1753488000,
+            "value": 0.86
+        },
+        {
+            "time": 1753574400,
+            "value": 0.78
+        },
+        {
+            "time": 1753660800,
+            "value": 0.84
+        },
+        {
+            "time": 1753747200,
+            "value": 0.77
+        },
+        {
+            "time": 1753833600,
+            "value": 0.88
+        },
+        {
+            "time": 1753920000,
+            "value": 0.96
+        },
+        {
+            "time": 1754006400,
+            "value": 0.83
+        },
+        {
+            "time": 1754092800,
+            "value": 0.86
+        },
+        {
+            "time": 1754179200,
+            "value": 0.85
+        },
+        {
+            "time": 1754265600,
+            "value": 0.73
+        },
+        {
+            "time": 1754352000,
+            "value": 0.8
+        },
+        {
+            "time": 1754438400,
+            "value": 0.9
+        },
+        {
+            "time": 1754524800,
+            "value": 0.84
+        },
+        {
+            "time": 1754611200,
+            "value": 0.91
+        },
+        {
+            "time": 1754697600,
+            "value": 0.81
+        },
+        {
+            "time": 1754784000,
+            "value": 0.9
+        },
+        {
+            "time": 1754870400,
+            "value": 0.69
+        },
+        {
+            "time": 1754956800,
+            "value": 0.71
+        },
+        {
+            "time": 1755043200,
+            "value": 0.77
+        },
+        {
+            "time": 1755129600,
+            "value": 0.83
+        }
+    ],
+    "publishCnt": 25923,
+    "videoViews": 155214119,
+    "publishCntAll": 878382,
+    "videoViewsAll": 25656375079,
+    "longevity": {
+        "popularDays": 0,
+        "currentPopularity": 0
+    },
+    "audienceAges": [
+        {
+            "ageLevel": 3,
+            "score": 58
+        },
+        {
+            "ageLevel": 5,
+            "score": 22
+        },
+        {
+            "ageLevel": 4,
+            "score": 20
+        }
+    ],
+    "audienceInterests": [
+        {
+            "interestInfo": {
+                "id": "10002",
+                "label": "diversify_10002",
+                "value": "Hilarious Fails"
+            },
+            "score": 140
+        },
+        {
+            "interestInfo": {
+                "id": "10063",
+                "label": "diversify_10063",
+                "value": "Other Transportation"
+            },
+            "score": 127
+        },
+        {
+            "interestInfo": {
+                "id": "10089",
+                "label": "diversify_10089",
+                "value": "Supernatural & Horror"
+            },
+            "score": 110
+        },
+        {
+            "interestInfo": {
+                "id": "10092",
+                "label": "diversify_10092",
+                "value": "Humanities"
+            },
+            "score": 108
+        }
+    ],
+    "audienceCountries": [
+        {
+            "countryInfo": {
+                "id": "798549",
+                "label": "RO",
+                "value": "Romania"
+            },
+            "score": 487
+        },
+        {
+            "countryInfo": {
+                "id": "1327865",
+                "label": "MM",
+                "value": "Myanmar"
+            },
+            "score": 361
+        },
+        {
+            "countryInfo": {
+                "id": "1733045",
+                "label": "MY",
+                "value": "Malaysia"
+            },
+            "score": 309
+        },
+        {
+            "countryInfo": {
+                "id": "3202326",
+                "label": "HR",
+                "value": "Croatia"
+            },
+            "score": 266
+        },
+        {
+            "countryInfo": {
+                "id": "1168579",
+                "label": "PK",
+                "value": "Pakistan"
+            },
+            "score": 242
+        },
+        {
+            "countryInfo": {
+                "id": "2782113",
+                "label": "AT",
+                "value": "Austria"
+            },
+            "score": 231
+        },
+        {
+            "countryInfo": {
+                "id": "2921044",
+                "label": "DE",
+                "value": "Germany"
+            },
+            "score": 223
+        },
+        {
+            "countryInfo": {
+                "id": "390903",
+                "label": "GR",
+                "value": "Greece"
+            },
+            "score": 200
+        },
+        {
+            "countryInfo": {
+                "id": "719819",
+                "label": "HU",
+                "value": "Hungary"
+            },
+            "score": 195
+        },
+        {
+            "countryInfo": {
+                "id": "3175395",
+                "label": "IT",
+                "value": "Italy"
+            },
+            "score": 174
+        },
+        {
+            "countryInfo": {
+                "id": "597427",
+                "label": "LT",
+                "value": "Lithuania"
+            },
+            "score": 165
+        }
+    ],
+    "relatedHashtags": [
+        {
+            "hashtagId": "1635589870658566",
+            "hashtagName": "aiart",
+            "videoUrl": "https://www.tiktok.com/tag/aiart"
+        },
+        {
+            "hashtagId": "1692547406571526",
+            "hashtagName": "aiartwork",
+            "videoUrl": "https://www.tiktok.com/tag/aiartwork"
+        },
+        {
+            "hashtagId": "1669044674402309",
+            "hashtagName": "aiartcommunity",
+            "videoUrl": "https://www.tiktok.com/tag/aiartcommunity"
+        },
+        {
+            "hashtagId": "1593602252068870",
+            "hashtagName": "aiartist",
+            "videoUrl": "https://www.tiktok.com/tag/aiartist"
+        },
+        {
+            "hashtagId": "1636822982236165",
+            "hashtagName": "aivideo",
+            "videoUrl": "https://www.tiktok.com/tag/aivideo"
+        }
+    ],
+    "period": 30,
+    "countryCode": "US"
+}
