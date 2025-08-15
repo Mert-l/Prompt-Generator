@@ -1,7 +1,7 @@
 {
-    "hashtagId": "1668778869266437",
-    "hashtagName": "aigenerated",
-    "videoUrl": "https://www.tiktok.com/tag/aigenerated",
+    "hashtagId": "1636822982236165",
+    "hashtagName": "aivideo",
+    "videoUrl": "https://www.tiktok.com/tag/aivideo",
     "countryInfo": {
         "id": "US",
         "value": "United States",
@@ -11,15 +11,15 @@
     "trend": [
         {
             "time": 1752624000,
-            "value": 0.91
+            "value": 1
         },
         {
             "time": 1752710400,
-            "value": 0.98
+            "value": 0.96
         },
         {
             "time": 1752796800,
-            "value": 0.93
+            "value": 0.94
         },
         {
             "time": 1752883200,
@@ -27,7 +27,7 @@
         },
         {
             "time": 1752969600,
-            "value": 1
+            "value": 0.95
         },
         {
             "time": 1753056000,
@@ -35,31 +35,31 @@
         },
         {
             "time": 1753142400,
-            "value": 0.76
-        },
-        {
-            "time": 1753228800,
-            "value": 0.91
-        },
-        {
-            "time": 1753315200,
-            "value": 0.95
-        },
-        {
-            "time": 1753401600,
-            "value": 0.96
-        },
-        {
-            "time": 1753488000,
-            "value": 0.86
-        },
-        {
-            "time": 1753574400,
             "value": 0.78
         },
         {
+            "time": 1753228800,
+            "value": 0.86
+        },
+        {
+            "time": 1753315200,
+            "value": 0.8
+        },
+        {
+            "time": 1753401600,
+            "value": 0.81
+        },
+        {
+            "time": 1753488000,
+            "value": 0.92
+        },
+        {
+            "time": 1753574400,
+            "value": 0.96
+        },
+        {
             "time": 1753660800,
-            "value": 0.84
+            "value": 0.9
         },
         {
             "time": 1753747200,
@@ -67,35 +67,35 @@
         },
         {
             "time": 1753833600,
-            "value": 0.88
+            "value": 0.84
         },
         {
             "time": 1753920000,
-            "value": 0.96
+            "value": 0.82
         },
         {
             "time": 1754006400,
-            "value": 0.83
+            "value": 0.96
         },
         {
             "time": 1754092800,
-            "value": 0.86
+            "value": 0.88
         },
         {
             "time": 1754179200,
-            "value": 0.85
+            "value": 0.81
         },
         {
             "time": 1754265600,
-            "value": 0.73
+            "value": 0.75
         },
         {
             "time": 1754352000,
-            "value": 0.8
+            "value": 0.75
         },
         {
             "time": 1754438400,
-            "value": 0.9
+            "value": 0.78
         },
         {
             "time": 1754524800,
@@ -103,15 +103,15 @@
         },
         {
             "time": 1754611200,
-            "value": 0.91
+            "value": 0.87
         },
         {
             "time": 1754697600,
-            "value": 0.81
+            "value": 0.92
         },
         {
             "time": 1754784000,
-            "value": 0.9
+            "value": 0.79
         },
         {
             "time": 1754870400,
@@ -119,21 +119,21 @@
         },
         {
             "time": 1754956800,
-            "value": 0.71
+            "value": 0.66
         },
         {
             "time": 1755043200,
-            "value": 0.77
+            "value": 0.67
         },
         {
             "time": 1755129600,
-            "value": 0.83
+            "value": 0.67
         }
     ],
-    "publishCnt": 25923,
-    "videoViews": 155214119,
-    "publishCntAll": 878382,
-    "videoViewsAll": 25656375079,
+    "publishCnt": 26994,
+    "videoViews": 259978271,
+    "publishCntAll": 701806,
+    "videoViewsAll": 22989982607,
     "longevity": {
         "popularDays": 0,
         "currentPopularity": 0
@@ -141,83 +141,67 @@
     "audienceAges": [
         {
             "ageLevel": 3,
-            "score": 58
-        },
-        {
-            "ageLevel": 5,
-            "score": 22
+            "score": 57
         },
         {
             "ageLevel": 4,
-            "score": 20
+            "score": 22
+        },
+        {
+            "ageLevel": 5,
+            "score": 21
         }
     ],
     "audienceInterests": [
-        {
-            "interestInfo": {
-                "id": "10002",
-                "label": "diversify_10002",
-                "value": "Hilarious Fails"
-            },
-            "score": 140
-        },
-        {
-            "interestInfo": {
-                "id": "10063",
-                "label": "diversify_10063",
-                "value": "Other Transportation"
-            },
-            "score": 127
-        },
         {
             "interestInfo": {
                 "id": "10089",
                 "label": "diversify_10089",
                 "value": "Supernatural & Horror"
             },
-            "score": 110
+            "score": 109
         },
         {
             "interestInfo": {
-                "id": "10092",
-                "label": "diversify_10092",
-                "value": "Humanities"
+                "id": "10017",
+                "label": "diversify_10017",
+                "value": "Babies"
             },
             "score": 108
+        },
+        {
+            "interestInfo": {
+                "id": "10037",
+                "label": "diversify_10037",
+                "value": "Oddly Satisfying"
+            },
+            "score": 107
+        },
+        {
+            "interestInfo": {
+                "id": "10004",
+                "label": "diversify_10004",
+                "value": "Scripted Drama"
+            },
+            "score": 107
+        },
+        {
+            "interestInfo": {
+                "id": "10002",
+                "label": "diversify_10002",
+                "value": "Hilarious Fails"
+            },
+            "score": 101
         }
     ],
     "audienceCountries": [
         {
             "countryInfo": {
-                "id": "798549",
-                "label": "RO",
-                "value": "Romania"
+                "id": "630336",
+                "label": "BY",
+                "value": "Belarus"
             },
-            "score": 487
-        },
-        {
-            "countryInfo": {
-                "id": "1327865",
-                "label": "MM",
-                "value": "Myanmar"
-            },
-            "score": 361
-        },
-        {
-            "countryInfo": {
-                "id": "1733045",
-                "label": "MY",
-                "value": "Malaysia"
-            },
-            "score": 309
-        },
-        {
-            "countryInfo": {
-                "id": "3202326",
-                "label": "HR",
-                "value": "Croatia"
-            },
-            "score": 266
+            "score": 282
         },
         {
             "countryInfo": {
@@ -225,31 +209,15 @@
                 "label": "PK",
                 "value": "Pakistan"
             },
-            "score": 242
+            "score": 272
         },
         {
             "countryInfo": {
-                "id": "2782113",
-                "label": "AT",
-                "value": "Austria"
+                "id": "1327865",
+                "label": "MM",
+                "value": "Myanmar"
             },
-            "score": 231
-        },
-        {
-            "countryInfo": {
-                "id": "2921044",
-                "label": "DE",
-                "value": "Germany"
-            },
-            "score": 223
-        },
-        {
-            "countryInfo": {
-                "id": "390903",
-                "label": "GR",
-                "value": "Greece"
-            },
-            "score": 200
+            "score": 237
         },
         {
             "countryInfo": {
@@ -257,23 +225,63 @@
                 "label": "HU",
                 "value": "Hungary"
             },
-            "score": 195
+            "score": 234
         },
         {
             "countryInfo": {
-                "id": "3175395",
-                "label": "IT",
-                "value": "Italy"
+                "id": "1210997",
+                "label": "BD",
+                "value": "Bangladesh"
             },
-            "score": 174
+            "score": 232
         },
         {
             "countryInfo": {
-                "id": "597427",
-                "label": "LT",
-                "value": "Lithuania"
+                "id": "3057568",
+                "label": "SK",
+                "value": "Slovakia"
             },
-            "score": 165
+            "score": 222
+        },
+        {
+            "countryInfo": {
+                "id": "1733045",
+                "label": "MY",
+                "value": "Malaysia"
+            },
+            "score": 207
+        },
+        {
+            "countryInfo": {
+                "id": "390903",
+                "label": "GR",
+                "value": "Greece"
+            },
+            "score": 203
+        },
+        {
+            "countryInfo": {
+                "id": "458258",
+                "label": "LV",
+                "value": "Latvia"
+            },
+            "score": 185
+        },
+        {
+            "countryInfo": {
+                "id": "732800",
+                "label": "BG",
+                "value": "Bulgaria"
+            },
+            "score": 179
+        },
+        {
+            "countryInfo": {
+                "id": "1821275",
+                "label": "MO",
+                "value": "Macao"
+            },
+            "score": 175
         }
     ],
     "relatedHashtags": [
@@ -283,24 +291,24 @@
             "videoUrl": "https://www.tiktok.com/tag/aiart"
         },
         {
-            "hashtagId": "1692547406571526",
-            "hashtagName": "aiartwork",
-            "videoUrl": "https://www.tiktok.com/tag/aiartwork"
+            "hashtagId": "1668778869266437",
+            "hashtagName": "aigenerated",
+            "videoUrl": "https://www.tiktok.com/tag/aigenerated"
+        },
+        {
+            "hashtagId": "1670499601037317",
+            "hashtagName": "aianimation",
+            "videoUrl": "https://www.tiktok.com/tag/aianimation"
+        },
+        {
+            "hashtagId": "1663408415714309",
+            "hashtagName": "aivideos",
+            "videoUrl": "https://www.tiktok.com/tag/aivideos"
         },
         {
             "hashtagId": "1669044674402309",
             "hashtagName": "aiartcommunity",
             "videoUrl": "https://www.tiktok.com/tag/aiartcommunity"
-        },
-        {
-            "hashtagId": "1593602252068870",
-            "hashtagName": "aiartist",
-            "videoUrl": "https://www.tiktok.com/tag/aiartist"
-        },
-        {
-            "hashtagId": "1636822982236165",
-            "hashtagName": "aivideo",
-            "videoUrl": "https://www.tiktok.com/tag/aivideo"
         }
     ],
     "period": 30,

@@ -2,7 +2,14 @@ from apify_client import ApifyClient
 import json
 from datetime import datetime
 from groq import Groq
+import os
+from dotenv import load_dotenv
 
+
+#handling api keys
+load_dotenv()
+apify_key = os.getenv("APIFY_API_KEY")
+groq_key = os.getenv("GROQ_API_KEY")
 
 #processing data from apify
 def process_data(data):
@@ -56,7 +63,7 @@ def process_data(data):
 
 
 # getting data from apify
-client = ApifyClient("apify_api_7apCC9PDP0z6e1nmjQttjdwOWRIuIb3RbpTQ")
+client = ApifyClient(apify_key)
 
 run_input = {
     "hashtags": ["aimade", "aigenerated", "ai", "aivideo"],
@@ -80,12 +87,13 @@ prompt = f"""
 Here is trending TikTok hashtag data:
 {summary}
 
-Based on that data generate 5 short, prompt ideas that that are ready to paste into video generating tool and are likely to go viral, 
-take into account all information like trends, audience, and related hashtags. 
-Make them creative, attention-grabbing, and optimized for TikTok.
+Based on that data, generate 5 short, viral video prompts that can be pasted directly into a video generator.
+Do NOT focus on AI. Make them creative, attention-grabbing, and optimized for TikTok. 
+Ideas can include animals, comedy, pranks, food, or any trending theme that has potential to go viral.
+Include a short caption and suggested hashtags for each prompt.
 """
 
-client = Groq(api_key="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")
+client = Groq(api_key=groq_key)
 
 response = client.chat.completions.create(
     model="llama3-8b-8192",  
