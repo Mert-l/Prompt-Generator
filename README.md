@@ -10,7 +10,7 @@ Collecting TikTok hashtag data from **Apify**, processing it, and using **Groq O
 - Display related hashtags, audience interests, and other metadata.
 - Web dashboard for easy visualization of results.
 
-  # Requirements
+## Requirements
   Django
   ApifyClient
   Groq  
