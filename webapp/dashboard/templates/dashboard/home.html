@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>TikTok Hashtag Trends</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-900">
+  <div class="max-w-6xl mx-auto p-6">
+    <h1 class="text-3xl font-bold mb-6">📈 Trending Hashtags Dashboard</h1>
+
+    <form method="get" class="flex gap-2 mb-6">
+      <input name="hashtags"
+             value="{{ hashtags|join:',' }}"
+             class="flex-1 rounded-xl border p-3"
+             placeholder="aimade,aigenerated,ai,aivideo" />
+      <button class="rounded-xl px-5 py-3 bg-black text-white">Fetch</button>
+    </form>
+
+    <div class="grid md:grid-cols-2 gap-4">
+      {% for item in data %}
+      <div class="bg-white rounded-2xl shadow p-5">
+        <h2 class="text-xl font-semibold">#{{ item.hashtag }}</h2>
+        <div class="mt-2 grid grid-cols-2 gap-2 text-sm">
+          <div class="p-3 bg-gray-100 rounded-xl">Country: <b>{{ item.country }}</b></div>
+          <div class="p-3 bg-gray-100 rounded-xl">Videos: <b>{{ item.publish_count }}</b></div>
+          <div class="p-3 bg-gray-100 rounded-xl">Views: <b>{{ item.video_views }}</b></div>
+        </div>
+
+        <h3 class="mt-4 font-semibold">Audience interests</h3>
+        <ul class="list-disc ml-5">
+          {% for i in item.audience_interests %}
+            <li>{{ i.label }} — {{ i.score }}%</li>
+          {% empty %}
+            <li>No data</li>
+          {% endfor %}
+        </ul>
+
+        <h3 class="mt-4 font-semibold">Related hashtags</h3>
+        <ul class="list-disc ml-5">
+          {% for t in item.related_hashtags %}
+            <li><a href="{{ t.url }}" class="text-blue-600 hover:underline" target="_blank">#{{ t.name }}</a></li>
+          {% empty %}
+            <li>No related hashtags</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="bg-white rounded-2xl shadow p-5 mt-6">
+      <h2 class="text-2xl font-semibold mb-2">🎬 Viral Video Prompts</h2>
+      <pre class="whitespace-pre-wrap text-sm">{{ prompts }}</pre>
+    </div>
+  </div>
+</body>
+</html>
