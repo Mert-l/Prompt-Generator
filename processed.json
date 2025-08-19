@@ -1,316 +1,386 @@
-{
-    "hashtagId": "1636822982236165",
-    "hashtagName": "aivideo",
-    "videoUrl": "https://www.tiktok.com/tag/aivideo",
-    "countryInfo": {
-        "id": "US",
-        "value": "United States",
-        "label": "US"
-    },
-    "isPromoted": false,
+[
+  {
+    "hashtag": "aimade",
+    "country": "N/A",
+    "publish_count": 0,
+    "video_views": 0,
+    "trend": [],
+    "audience_ages": [],
+    "audience_interests": [],
+    "related_hashtags": []
+  },
+  {
+    "hashtag": "aigenerated",
+    "country": "N/A",
+    "publish_count": 0,
+    "video_views": 0,
+    "trend": [],
+    "audience_ages": [],
+    "audience_interests": [],
+    "related_hashtags": []
+  },
+  {
+    "hashtag": "ai",
+    "country": "United States",
+    "publish_count": 375553,
+    "video_views": 3239830343,
     "trend": [
-        {
-            "time": 1752624000,
-            "value": 1
-        },
-        {
-            "time": 1752710400,
-            "value": 0.96
-        },
-        {
-            "time": 1752796800,
-            "value": 0.94
-        },
-        {
-            "time": 1752883200,
-            "value": 0.98
-        },
-        {
-            "time": 1752969600,
-            "value": 0.95
-        },
-        {
-            "time": 1753056000,
-            "value": 0.86
-        },
-        {
-            "time": 1753142400,
-            "value": 0.78
-        },
-        {
-            "time": 1753228800,
-            "value": 0.86
-        },
-        {
-            "time": 1753315200,
-            "value": 0.8
-        },
-        {
-            "time": 1753401600,
-            "value": 0.81
-        },
-        {
-            "time": 1753488000,
-            "value": 0.92
-        },
-        {
-            "time": 1753574400,
-            "value": 0.96
-        },
-        {
-            "time": 1753660800,
-            "value": 0.9
-        },
-        {
-            "time": 1753747200,
-            "value": 0.77
-        },
-        {
-            "time": 1753833600,
-            "value": 0.84
-        },
-        {
-            "time": 1753920000,
-            "value": 0.82
-        },
-        {
-            "time": 1754006400,
-            "value": 0.96
-        },
-        {
-            "time": 1754092800,
-            "value": 0.88
-        },
-        {
-            "time": 1754179200,
-            "value": 0.81
-        },
-        {
-            "time": 1754265600,
-            "value": 0.75
-        },
-        {
-            "time": 1754352000,
-            "value": 0.75
-        },
-        {
-            "time": 1754438400,
-            "value": 0.78
-        },
-        {
-            "time": 1754524800,
-            "value": 0.84
-        },
-        {
-            "time": 1754611200,
-            "value": 0.87
-        },
-        {
-            "time": 1754697600,
-            "value": 0.92
-        },
-        {
-            "time": 1754784000,
-            "value": 0.79
-        },
-        {
-            "time": 1754870400,
-            "value": 0.69
-        },
-        {
-            "time": 1754956800,
-            "value": 0.66
-        },
-        {
-            "time": 1755043200,
-            "value": 0.67
-        },
-        {
-            "time": 1755129600,
-            "value": 0.67
-        }
+      {
+        "date": "2025-07-20",
+        "value": 1
+      },
+      {
+        "date": "2025-07-21",
+        "value": 0.94
+      },
+      {
+        "date": "2025-07-22",
+        "value": 0.85
+      },
+      {
+        "date": "2025-07-23",
+        "value": 0.86
+      },
+      {
+        "date": "2025-07-24",
+        "value": 0.87
+      },
+      {
+        "date": "2025-07-25",
+        "value": 0.85
+      },
+      {
+        "date": "2025-07-26",
+        "value": 0.85
+      },
+      {
+        "date": "2025-07-27",
+        "value": 0.83
+      },
+      {
+        "date": "2025-07-28",
+        "value": 0.79
+      },
+      {
+        "date": "2025-07-29",
+        "value": 0.78
+      },
+      {
+        "date": "2025-07-30",
+        "value": 0.86
+      },
+      {
+        "date": "2025-07-31",
+        "value": 0.9
+      },
+      {
+        "date": "2025-08-01",
+        "value": 0.89
+      },
+      {
+        "date": "2025-08-02",
+        "value": 0.87
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0.85
+      },
+      {
+        "date": "2025-08-04",
+        "value": 0.81
+      },
+      {
+        "date": "2025-08-05",
+        "value": 0.81
+      },
+      {
+        "date": "2025-08-06",
+        "value": 0.87
+      },
+      {
+        "date": "2025-08-07",
+        "value": 0.88
+      },
+      {
+        "date": "2025-08-08",
+        "value": 0.85
+      },
+      {
+        "date": "2025-08-09",
+        "value": 0.83
+      },
+      {
+        "date": "2025-08-10",
+        "value": 0.81
+      },
+      {
+        "date": "2025-08-11",
+        "value": 0.76
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0.73
+      },
+      {
+        "date": "2025-08-13",
+        "value": 0.76
+      },
+      {
+        "date": "2025-08-14",
+        "value": 0.73
+      },
+      {
+        "date": "2025-08-15",
+        "value": 0.73
+      },
+      {
+        "date": "2025-08-16",
+        "value": 0.73
+      },
+      {
+        "date": "2025-08-17",
+        "value": 0.71
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0.68
+      }
     ],
-    "publishCnt": 26994,
-    "videoViews": 259978271,
-    "publishCntAll": 701806,
-    "videoViewsAll": 22989982607,
-    "longevity": {
-        "popularDays": 0,
-        "currentPopularity": 0
-    },
-    "audienceAges": [
-        {
-            "ageLevel": 3,
-            "score": 57
-        },
-        {
-            "ageLevel": 4,
-            "score": 22
-        },
-        {
-            "ageLevel": 5,
-            "score": 21
-        }
+    "audience_ages": [
+      {
+        "ageLevel": 3,
+        "score": 55
+      },
+      {
+        "ageLevel": 4,
+        "score": 24
+      },
+      {
+        "ageLevel": 5,
+        "score": 21
+      }
     ],
-    "audienceInterests": [
-        {
-            "interestInfo": {
-                "id": "10089",
-                "label": "diversify_10089",
-                "value": "Supernatural & Horror"
-            },
-            "score": 109
-        },
-        {
-            "interestInfo": {
-                "id": "10017",
-                "label": "diversify_10017",
-                "value": "Babies"
-            },
-            "score": 108
-        },
-        {
-            "interestInfo": {
-                "id": "10037",
-                "label": "diversify_10037",
-                "value": "Oddly Satisfying"
-            },
-            "score": 107
-        },
-        {
-            "interestInfo": {
-                "id": "10004",
-                "label": "diversify_10004",
-                "value": "Scripted Drama"
-            },
-            "score": 107
-        },
-        {
-            "interestInfo": {
-                "id": "10002",
-                "label": "diversify_10002",
-                "value": "Hilarious Fails"
-            },
-            "score": 101
-        }
+    "audience_interests": [
+      {
+        "label": "Tech Products & Infos",
+        "score": 97
+      },
+      {
+        "label": "Science",
+        "score": 96
+      },
+      {
+        "label": "Video Games",
+        "score": 95
+      }
     ],
-    "audienceCountries": [
-        {
-            "countryInfo": {
-                "id": "630336",
-                "label": "BY",
-                "value": "Belarus"
-            },
-            "score": 282
-        },
-        {
-            "countryInfo": {
-                "id": "1168579",
-                "label": "PK",
-                "value": "Pakistan"
-            },
-            "score": 272
-        },
-        {
-            "countryInfo": {
-                "id": "1327865",
-                "label": "MM",
-                "value": "Myanmar"
-            },
-            "score": 237
-        },
-        {
-            "countryInfo": {
-                "id": "719819",
-                "label": "HU",
-                "value": "Hungary"
-            },
-            "score": 234
-        },
-        {
-            "countryInfo": {
-                "id": "1210997",
-                "label": "BD",
-                "value": "Bangladesh"
-            },
-            "score": 232
-        },
-        {
-            "countryInfo": {
-                "id": "3057568",
-                "label": "SK",
-                "value": "Slovakia"
-            },
-            "score": 222
-        },
-        {
-            "countryInfo": {
-                "id": "1733045",
-                "label": "MY",
-                "value": "Malaysia"
-            },
-            "score": 207
-        },
-        {
-            "countryInfo": {
-                "id": "390903",
-                "label": "GR",
-                "value": "Greece"
-            },
-            "score": 203
-        },
-        {
-            "countryInfo": {
-                "id": "458258",
-                "label": "LV",
-                "value": "Latvia"
-            },
-            "score": 185
-        },
-        {
-            "countryInfo": {
-                "id": "732800",
-                "label": "BG",
-                "value": "Bulgaria"
-            },
-            "score": 179
-        },
-        {
-            "countryInfo": {
-                "id": "1821275",
-                "label": "MO",
-                "value": "Macao"
-            },
-            "score": 175
-        }
+    "related_hashtags": [
+      {
+        "name": "aiart",
+        "url": "https://www.tiktok.com/tag/aiart"
+      },
+      {
+        "name": "artificialintelligence",
+        "url": "https://www.tiktok.com/tag/artificialintelligence"
+      },
+      {
+        "name": "chatgpt",
+        "url": "https://www.tiktok.com/tag/chatgpt"
+      },
+      {
+        "name": "ia",
+        "url": "https://www.tiktok.com/tag/ia"
+      },
+      {
+        "name": "midjourney",
+        "url": "https://www.tiktok.com/tag/midjourney"
+      }
+    ]
+  },
+  {
+    "hashtag": "aivideo",
+    "country": "United States",
+    "publish_count": 24945,
+    "video_views": 246575031,
+    "trend": [
+      {
+        "date": "2025-07-20",
+        "value": 0.99
+      },
+      {
+        "date": "2025-07-21",
+        "value": 0.9
+      },
+      {
+        "date": "2025-07-22",
+        "value": 0.81
+      },
+      {
+        "date": "2025-07-23",
+        "value": 0.89
+      },
+      {
+        "date": "2025-07-24",
+        "value": 0.83
+      },
+      {
+        "date": "2025-07-25",
+        "value": 0.84
+      },
+      {
+        "date": "2025-07-26",
+        "value": 0.95
+      },
+      {
+        "date": "2025-07-27",
+        "value": 1
+      },
+      {
+        "date": "2025-07-28",
+        "value": 0.94
+      },
+      {
+        "date": "2025-07-29",
+        "value": 0.8
+      },
+      {
+        "date": "2025-07-30",
+        "value": 0.87
+      },
+      {
+        "date": "2025-07-31",
+        "value": 0.85
+      },
+      {
+        "date": "2025-08-01",
+        "value": 1
+      },
+      {
+        "date": "2025-08-02",
+        "value": 0.92
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0.85
+      },
+      {
+        "date": "2025-08-04",
+        "value": 0.78
+      },
+      {
+        "date": "2025-08-05",
+        "value": 0.78
+      },
+      {
+        "date": "2025-08-06",
+        "value": 0.81
+      },
+      {
+        "date": "2025-08-07",
+        "value": 0.87
+      },
+      {
+        "date": "2025-08-08",
+        "value": 0.9
+      },
+      {
+        "date": "2025-08-09",
+        "value": 0.96
+      },
+      {
+        "date": "2025-08-10",
+        "value": 0.82
+      },
+      {
+        "date": "2025-08-11",
+        "value": 0.72
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0.69
+      },
+      {
+        "date": "2025-08-13",
+        "value": 0.7
+      },
+      {
+        "date": "2025-08-14",
+        "value": 0.69
+      },
+      {
+        "date": "2025-08-15",
+        "value": 0.69
+      },
+      {
+        "date": "2025-08-16",
+        "value": 0.74
+      },
+      {
+        "date": "2025-08-17",
+        "value": 0.71
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0.68
+      }
     ],
-    "relatedHashtags": [
-        {
-            "hashtagId": "1635589870658566",
-            "hashtagName": "aiart",
-            "videoUrl": "https://www.tiktok.com/tag/aiart"
-        },
-        {
-            "hashtagId": "1668778869266437",
-            "hashtagName": "aigenerated",
-            "videoUrl": "https://www.tiktok.com/tag/aigenerated"
-        },
-        {
-            "hashtagId": "1670499601037317",
-            "hashtagName": "aianimation",
-            "videoUrl": "https://www.tiktok.com/tag/aianimation"
-        },
-        {
-            "hashtagId": "1663408415714309",
-            "hashtagName": "aivideos",
-            "videoUrl": "https://www.tiktok.com/tag/aivideos"
-        },
-        {
-            "hashtagId": "1669044674402309",
-            "hashtagName": "aiartcommunity",
-            "videoUrl": "https://www.tiktok.com/tag/aiartcommunity"
-        }
+    "audience_ages": [
+      {
+        "ageLevel": 3,
+        "score": 55
+      },
+      {
+        "ageLevel": 4,
+        "score": 23
+      },
+      {
+        "ageLevel": 5,
+        "score": 22
+      }
     ],
-    "period": 30,
-    "countryCode": "US"
-}
+    "audience_interests": [
+      {
+        "label": "Scripted Drama",
+        "score": 133
+      },
+      {
+        "label": "Software & APPs",
+        "score": 122
+      },
+      {
+        "label": "Humanities",
+        "score": 122
+      },
+      {
+        "label": "Other Transportation",
+        "score": 120
+      },
+      {
+        "label": "Hilarious Fails",
+        "score": 120
+      }
+    ],
+    "related_hashtags": [
+      {
+        "name": "aiart",
+        "url": "https://www.tiktok.com/tag/aiart"
+      },
+      {
+        "name": "aianimation",
+        "url": "https://www.tiktok.com/tag/aianimation"
+      },
+      {
+        "name": "midjourney",
+        "url": "https://www.tiktok.com/tag/midjourney"
+      },
+      {
+        "name": "artificialintelligence",
+        "url": "https://www.tiktok.com/tag/artificialintelligence"
+      },
+      {
+        "name": "aiartcommunity",
+        "url": "https://www.tiktok.com/tag/aiartcommunity"
+      }
+    ]
+  }
+]
